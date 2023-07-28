@@ -1,3 +1,5 @@
+% file for matrix multiplication on dev branch
+
 n = 5000;                     % set matrix size
 A = rand(n);                % create random matrix
 B = rand(n);                % create another random matrix
